@@ -2,8 +2,8 @@
 
 ## Curate
 
-Run all of the specs: `bundle exec rake spec`
-Run some of the specs: `BUNDLE_GEMFILE=spec/internal/Gemfile bundle exec rspec path/to/spec.rb:LINE`
+* Run all of the specs: `bundle exec rake spec`
+* Run some of the specs: `BUNDLE_GEMFILE=spec/internal/Gemfile bundle exec rspec path/to/spec.rb:LINE`
 
 ## Resque
 
