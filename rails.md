@@ -2,6 +2,10 @@
 
 ## Curate
 
+### RSpec
+
+* Generate with: `bundle exec rake regenerate`
+
 * Run all of the specs: `bundle exec rake spec`
 * Run some of the specs: `BUNDLE_GEMFILE=spec/internal/Gemfile bundle exec rspec path/to/spec.rb:LINE`
 
