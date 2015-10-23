@@ -22,9 +22,7 @@ And attach:
 
 `$ tmux attach -t name`
 
-## Moving and manipulating panes
-
-Command: `C-b`
+## Moving and manipulating panes (with command)
 
 * Split vertical (-): `"`
 * Split horizonal (|): `%`
@@ -34,7 +32,10 @@ Command: `C-b`
 * Next window: `n`
 * Previous window: `p`
 * Zoom/full screen: `z`
-* Resize: `C-<arrow key>`
 * Rename: `,`
 
 Detach with: `d`
+
+## Other (with command)
+
+* Enable scroll: `[`
