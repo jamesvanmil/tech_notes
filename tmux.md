@@ -33,6 +33,7 @@ And attach:
 * Previous window: `p`
 * Zoom/full screen: `z`
 * Rename: `,`
+* Resizing: `:resize-p -D 2` (use [UDLR])
 
 Detach with: `d`
 
