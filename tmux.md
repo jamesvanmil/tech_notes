@@ -22,6 +22,13 @@ And attach:
 
 `$ tmux attach -t name`
 
+## Switching sessions
+
+* Last: `L`
+* Previous: `(`
+* Next: `)`
+* List: `s`
+
 ## Moving and manipulating panes (with command)
 
 * Split vertical (-): `"`
